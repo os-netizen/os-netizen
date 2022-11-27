@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @os-netizen
-- 👀 I’m interested in Web Develoment, Web3 and Blockchain dev
-- 🌱 I’m currently learning Solidity and development on Ethereum
+- 👀 I’m interested in Web Develoment and Deep learning
+- 🌱 I’m currently learning Pytorch and python
 - 📫 How to reach me omkarsgothankar@gmail.com
 
 <!---
